@@ -8,7 +8,7 @@ Let me show you what you've been missing.
 - Learning environmental design and texturing for my game Macroscopic.
 - Investigating noise and creating interesting randomly generated landscapes for environment inspiration.
 - Improving my python skills and learning pyQT due to GUI development contract work.
-- Enjoying the Advent of Code 2020 event.
+- Enjoying the [Advent of Code 2020](https://adventofcode.com/) event.
 
 💭 Later:
 - Investigate how one dimensional noise can create a convincing heavy rain effect.
