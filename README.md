@@ -1,4 +1,4 @@
-![Aiko Banner](https://github.com/GarrettGunnell/GarrettGunnell/blob/main/AikoBanner.png)
+![Aiko Banner](https://github.com/GarrettGunnell/GarrettGunnell/blob/main/Aiko.png)
 
 Hi, I'm Garrett and I like making pretty images with code. 
 
