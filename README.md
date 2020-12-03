@@ -1,3 +1,5 @@
+![Aiko Banner](https://github.com/GarrettGunnell/GarrettGunnell/raw/main/AikoBanner.jpg)
+
 Hi, I'm Garrett and I like making pretty images with code. 
 
 Let me show you what you've been missing.
