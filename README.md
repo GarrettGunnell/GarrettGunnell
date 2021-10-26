@@ -15,7 +15,8 @@ Let me show you what you've been missing.
 - Create various foliage shaders.
 
 💤 Previously:
-- Wrote my own [post processing](https://github.com/GarrettGunnell/Image-Effects) shaders, including a compute shader approach to bayer dithering.
-- Wrote my own [Minecraft shaders](https://github.com/GarrettGunnell/Minecraft-Shaders) and created a [video](https://www.youtube.com/watch?v=dSS5HuSr4SQ) going over the effects used.
-- Created a [Twitch bot](https://github.com/GarrettGunnell/Acerola_Bot) that scans the chat for backseat gaming.
+- Made a video on chaikin curves which you can watch [here](https://youtu.be/wVgzmFo9SbY).
+- Made a video on cellular automata which you can watch [here](https://youtu.be/t_HcBAO_Yas).
+- Made a video on pseudo random number generates which you can watch [here](https://youtu.be/PDd5GQnjR44).
+- Made a [video game](https://github.com/GarrettGunnell/The-Dating-Game) for Ludwig Jam.
 
