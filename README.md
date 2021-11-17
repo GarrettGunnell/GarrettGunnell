@@ -15,8 +15,8 @@ Let me show you what you've been missing.
 - Create various foliage shaders.
 
 💤 Previously:
-- Made a video on chaikin curves which you can watch [here](https://youtu.be/wVgzmFo9SbY).
 - Made a video on cellular automata which you can watch [here](https://youtu.be/t_HcBAO_Yas).
-- Made a video on pseudo random number generates which you can watch [here](https://youtu.be/PDd5GQnjR44).
+- Made a video on pseudo random number generators which you can watch [here](https://youtu.be/PDd5GQnjR44).
 - Made a [video game](https://github.com/GarrettGunnell/The-Dating-Game) for Ludwig Jam.
+- Made a video on gooch shading which you can watch [here](https://youtu.be/tvKLXbhVBnw).
 
