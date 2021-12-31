@@ -5,18 +5,14 @@ Hi, I'm Garrett and I'm an aspiring technical artist/graphics engine developer.
 Let me show you what you've been missing.
 
 💬 Now:
-- Learning environmental design and texturing for my game Macroscopic.
-- Learning about fluid dynamics and the Navier-Stokes equations for my own fluid simulation explorations.
-- Writing firmware for the Watchy, an open source E-ink watch.
+- Optimizing GPU instanced grass with culling and LOD calculated with compute shaders.
 
 💭 Later:
-- Implement realistic snow mesh deformation in Macroscopic.
-- Read about how weather effects are created in video games.
-- Create various foliage shaders.
+- Look into weather effects.
 
 💤 Previously:
-- Made a video on cellular automata which you can watch [here](https://youtu.be/t_HcBAO_Yas).
-- Made a video on pseudo random number generators which you can watch [here](https://youtu.be/PDd5GQnjR44).
 - Made a [video game](https://github.com/GarrettGunnell/The-Dating-Game) for Ludwig Jam.
-- Made a video on gooch shading which you can watch [here](https://youtu.be/tvKLXbhVBnw).
+- Made a video on level of detail and geometry shader triangle culling.
+- Implemented an [old grass rendering technique](https://youtu.be/Y0Ko0kvwfgA).
+- Implemented a [more modern looking grass that](https://youtu.be/jw00MbIJcrk) uses real geometry.
 
