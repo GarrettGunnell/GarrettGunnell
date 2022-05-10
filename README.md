@@ -15,3 +15,7 @@ Let me show you what you've been missing.
 - Texture hacked Super Smash Bros Melee and made custom skins for the game.
 - Recreated Elden Ring's [eternal city stars](https://youtu.be/IMiiUEG-sLQ).
 - Created a tool for testing several [tone mappers](https://youtu.be/wbn5ULLtkHs) in Unity.
+
+</br>
+
+![](https://komarev.com/ghpvc/?username=garrettgunnell&color=e95c7d&label=Views)
