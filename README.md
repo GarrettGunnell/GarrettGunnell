@@ -11,10 +11,10 @@ Let me show you what you've been missing.
 - Look into weather effects.
 
 💤 Previously:
-- Recreated Loop Hero's [CRT Shader](https://youtu.be/aWdySZ0BtJs).
 - Texture hacked Super Smash Bros Melee and made custom skins for the game.
 - Recreated Elden Ring's [eternal city stars](https://youtu.be/IMiiUEG-sLQ).
 - Created a tool for testing several [tone mappers](https://youtu.be/wbn5ULLtkHs) in Unity.
+- Created several shaders for [faking pixel art](https://youtu.be/8wOUe32Pt-E).
 
 </br>
 
