@@ -5,7 +5,7 @@ Hi, I'm Garrett and I'm a technical artist/graphics developer.
 Let me show you what you've been missing.
 
 💬 Now:
-- Faking pixel art with post processing effects.
+- Creating color blindness shaders to visualize how games look to those with color blindness.
 
 💭 Later:
 - Look into weather effects.
