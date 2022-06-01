@@ -5,16 +5,16 @@ Hi, I'm Garrett and I'm a technical artist/graphics developer.
 Let me show you what you've been missing.
 
 💬 Now:
-- Creating color blindness shaders to visualize how games look to those with color blindness.
+- Converting my post processing shaders to fx files for ReShade.
 
 💭 Later:
 - Look into weather effects.
 
 💤 Previously:
 - Texture hacked Super Smash Bros Melee and made custom skins for the game.
-- Recreated Elden Ring's [eternal city stars](https://youtu.be/IMiiUEG-sLQ).
 - Created a tool for testing several [tone mappers](https://youtu.be/wbn5ULLtkHs) in Unity.
 - Created several shaders for [faking pixel art](https://youtu.be/8wOUe32Pt-E).
+- Simulated color blindness for usability engineering.
 
 </br>
 
