@@ -21,10 +21,3 @@ Let me show you what you've been missing.
 ![](https://komarev.com/ghpvc/?username=garrettgunnell&color=e95c7d&label=Views)
 
 
-<div align="center">
-	<br>
-	<a href="./header.svg">
-		<img src="header.svg" width="960" height="1000" alt="Click to see the source">
-	</a>
-	<br>
-</div>
