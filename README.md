@@ -17,7 +17,12 @@ Let me show you what you've been missing.
 - Simulated color blindness for usability engineering.
 
 <div align="right">
+<table bgcolor="#FF0000">
+<tr>
+<td>
 <img src="lighthouse1.png">
+</td>
+</tr>
 </br>
 </div>
-<img align="right" src="https://komarev.com/ghpvc/?username=garrettgunnell&color=e95c7d&label=Views">
+<img src="https://komarev.com/ghpvc/?username=garrettgunnell&color=e95c7d&label=Views">
