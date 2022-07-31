@@ -18,7 +18,6 @@ Let me show you what you've been missing.
 
 <div align="right">
 <img src="lighthouse1.png">
-
-<img src="https://komarev.com/ghpvc/?username=garrettgunnell&color=e95c7d&label=Views">
 </br>
 </div>
+<img align="right" src="https://komarev.com/ghpvc/?username=garrettgunnell&color=e95c7d&label=Views">
