@@ -1,4 +1,4 @@
-![Banner](./KoumeBanner.png)
+
 
 Hi, I'm Garrett and I'm a technical artist/graphics developer. 
 
