@@ -15,9 +15,11 @@ Let me show you what you've been missing.
 - Created a tool for testing several [tone mappers](https://youtu.be/wbn5ULLtkHs) in Unity.
 - Created several shaders for [faking pixel art](https://youtu.be/8wOUe32Pt-E).
 - Simulated color blindness for usability engineering.
-
+<div align="right">
+	<br>
+		<img src="lighthouse.png">
+	<br>
+</div>
 </br>
 
 ![](https://komarev.com/ghpvc/?username=garrettgunnell&color=e95c7d&label=Views)
-
-
