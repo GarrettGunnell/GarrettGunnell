@@ -17,7 +17,7 @@ Let me show you what you've been missing.
 - Simulated color blindness for usability engineering.
 
 <div align="right">
-<img src="lighthouse1.png">
+<img src="lighthouse2.png">
 </br>
 </div>
 <img align="right" src="https://komarev.com/ghpvc/?username=garrettgunnell&color=e95c7d&label=Views">
