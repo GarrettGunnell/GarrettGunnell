@@ -16,8 +16,9 @@ Let me show you what you've been missing.
 - Created several shaders for [faking pixel art](https://youtu.be/8wOUe32Pt-E).
 - Simulated color blindness for usability engineering.
 
-<img align="right" src="lighthouse1.png">
-</br>
+<div align="right">
+<img src="lighthouse1.png">
 
-<img align="right" src="https://komarev.com/ghpvc/?username=garrettgunnell&color=e95c7d&label=Views">
+<img src="https://komarev.com/ghpvc/?username=garrettgunnell&color=e95c7d&label=Views">
 </br>
+</div>
