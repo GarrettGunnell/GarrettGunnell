@@ -5,16 +5,18 @@ Hi, I'm Garrett and I'm a technical artist/graphics developer.
 Let me show you what you've been missing.
 
 💬 Now:
-- Converting my post processing shaders to fx files for ReShade.
+- Implementing extended difference of gaussians for advanced image stylization.
 
 💭 Later:
 - Look into weather effects.
+- Explore compute particle systems for Unity.
+- Implement all currently relevant anti aliasing techniques. 
+- Try and make a real time pixel sorting shader.
+- Prototype grainy real time ray tracing as the main aesthetic of a horror game.
 
 💤 Previously:
-- Texture hacked Super Smash Bros Melee and made custom skins for the game.
-- Created a tool for testing several [tone mappers](https://youtu.be/wbn5ULLtkHs) in Unity.
-- Created several shaders for [faking pixel art](https://youtu.be/8wOUe32Pt-E).
-- Simulated color blindness for usability engineering.
+- Created a [suite of shaders](https://github.com/GarrettGunnell/AcerolaFX) for GShade to improve the visuals of Final Fantasy XIV.
+- Implemented the basic, generalized, and anisotropic Kuwahara Filters to make images look like oil paintings.
 
 <div align="right">
 <img src="lighthouse2.png">
