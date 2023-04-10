@@ -5,8 +5,7 @@ Hi, I'm Garrett and I'm a technical artist/graphics developer.
 Let me show you what you've been missing.
 
 💬 Now:
-- Implementing chromatic aberration and some other camera specific effects for a series of shorts.
-- Trying to invent a real time pixel sorting shader.
+- Recreating Counter Strike 2's responsive smoke grenades.
 
 💭 Later:
 - Look into weather effects.
@@ -15,10 +14,10 @@ Let me show you what you've been missing.
 - Prototype grainy real time ray tracing as the main aesthetic of a horror game.
 
 💤 Previously:
-- Created a [suite of shaders](https://github.com/GarrettGunnell/AcerolaFX) for ReShade to improve the visuals of Final Fantasy XIV.
-- Implemented the basic, generalized, and anisotropic Kuwahara Filters to make images look like oil paintings.
 - Invented a new sdr color filtering method for cinematic depth of field.
 - Implemented the extended difference of gaussians for advanced image stylization.
+- Implemented chromatic aberration, vignetting, and film grain for film camera aesthetics.
+- Tried to invent a real time pixel sorter.
 
 <div align="right">
 <img src="lighthouse2.png">
