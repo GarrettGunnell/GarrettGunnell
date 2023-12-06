@@ -1,13 +1,13 @@
 <div align="center">
-<img src="rolachibiblack2.png" width="100">
+<img src="rolachibiblack2.png" width="150">
 </div>
 
-Hi, I'm Garrett and I'm a technical artist/graphics developer. 
+Hi, I'm Acerola and I'm a graphics programmer.
 
 Let me show you what you've been missing.
 
 💬 Now:
-- Reading about shell texturing.
+- Reading about gpu buoyancy simulations.
 
 💭 Later:
 - Look into weather effects.
