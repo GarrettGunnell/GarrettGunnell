@@ -1,4 +1,7 @@
-![Banner](./KoumeBanner.png)
+<div align="center">
+<img src="rolachibiblack2.png" style="float:left;width:20%;margin-right:10%;">
+</div>
+</br>
 
 Hi, I'm Garrett and I'm a technical artist/graphics developer. 
 
@@ -13,12 +16,18 @@ Let me show you what you've been missing.
 - Implement all currently relevant anti aliasing techniques. 
 
 💤 Previously:
-- Tried to recreate Counter Strike 2's smoke grenades.
-- Implemented simple sum of sines fluid simulation and inverse fast fourier transform ocean simulation.
-- Made a basic random color palette generator to demonstrate color space differences.
 
-<div align="right">
-<img src="lighthouse2.png">
+</br>
+
+<div align="center">
+<img src="grass.gif">
+<img src="acerolafx.gif"> </br>
+<img src="kuwahara.gif">
+<img src="gaussian.png"> </br>
+<img src="pixelsort.gif">
+<img src="smoke.gif"> </br>
+<img src="ocean.gif">
+<img src="colorpalette.gif"> </br>
 </br>
 </div>
 <img align="right" src="https://komarev.com/ghpvc/?username=garrettgunnell&color=e95c7d&label=Views">
