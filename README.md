@@ -1,7 +1,6 @@
 <div align="center">
-<img src="rolachibiblack2.png" style="float:left;width:20%;margin-right:10%;">
+<img src="rolachibiblack2.png" width="100">
 </div>
-</br>
 
 Hi, I'm Garrett and I'm a technical artist/graphics developer. 
 
