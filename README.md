@@ -4,7 +4,7 @@
 
 Hi, I'm Acerola and I'm a graphics programmer.
 
-Let me show you what you've been missing.
+Let me show you what you've been missing:
 
 </br>
 
