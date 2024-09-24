@@ -12,11 +12,13 @@ Let me show you what you've been missing:
 <a href="https://youtu.be/Y0Ko0kvwfgA"><img src="grass.gif"></a>
 <a href="https://youtu.be/jJnwzkBre8Y"><img src="acerolafx.gif"></a> </br>
 <a href="https://youtu.be/LDhN-JK3U9g"><img src="kuwahara.gif"></a>
-<a href="https://youtu.be/5EuYKEvugLU"><img src="gaussian.png"></a> </br>
+<a href="https://youtu.be/5EuYKEvugLU"><img src="dog.gif"></a> </br>
 <a href="https://youtu.be/HMmmBDRy-jE"><img src="pixelsort.gif"></a>
 <a href="https://youtu.be/ryB8hT5TMSg"><img src="smoke.gif"></a> </br>
 <a href="https://youtu.be/yPfagLeUa7k"><img src="ocean.gif"></a>
 <a href="https://youtu.be/fv-wlo8yVhk"><img src="colorpalette.gif"></a> </br>
+<a href="https://youtu.be/fv-wlo8yVhk"><img src="pbr.gif"></a> </br>
+<a href="https://youtu.be/fv-wlo8yVhk"><img src="ascii.gif"></a> </br>
 </br>
 </div>
 <img align="right" src="https://komarev.com/ghpvc/?username=garrettgunnell&color=e95c7d&label=Views">
