@@ -17,8 +17,8 @@ Let me show you what you've been missing:
 <a href="https://youtu.be/ryB8hT5TMSg"><img src="smoke.gif"></a> </br>
 <a href="https://youtu.be/yPfagLeUa7k"><img src="ocean.gif"></a>
 <a href="https://youtu.be/fv-wlo8yVhk"><img src="colorpalette.gif"></a> </br>
-<a href="https://youtu.be/fv-wlo8yVhk"><img src="pbr.gif"></a>
-<a href="https://youtu.be/fv-wlo8yVhk"><img src="ascii.gif"></a> </br>
+<a href="https://youtu.be/KkOkx0FiHDA"><img src="pbr.gif"></a>
+<a href="https://youtu.be/gg40RWiaHRY"><img src="ascii.gif"></a> </br>
 </br>
 </div>
 <img align="right" src="https://komarev.com/ghpvc/?username=garrettgunnell&color=e95c7d&label=Views">
